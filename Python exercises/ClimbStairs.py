@@ -1,6 +1,6 @@
 #You have n steps to make, and your moves are either 1 step at a time or 2 at a time
 #This function returns the number of different combinations of moves to reach n steps
-#Example, if you need to make 3 steps, than you got 3 options:
+#Example, if you need to make 3 steps, then you have 3 options:
 #Option 1: 1-1-1, Option 2: 2-1, Option 3: 1-2
 #In addition, the function prints the combination,
 #The print is recursive so every line is represnts a combination and instructs the number of steps in every move,
