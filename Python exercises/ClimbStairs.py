@@ -2,11 +2,11 @@
 #This function returns the number of different combinations of moves to reach n steps
 #Example, if you need to make 3 steps, then you have 3 options:
 #Option 1: 1-1-1, Option 2: 2-1, Option 3: 1-2
-#In addition, the function prints the combination,
-#The print is recursive so every line is represnts a combination and instructs the number of steps in every move,
-#If you don't see a certain move in a line so take it as the last appearnce of this move
-#for example, if you are looking at a combination and move #1 is not showing in the combination line,
-#then find the last appearnce of move #1 in the previous lines and this is the move you should make
+#The function prints every combination in a seperate line
+#Because the function is recursive every line presents only the 'new' moves based on running time,
+#Whenever you don't see certain moves (like they are 'missing') in a line you need take those move from the last appearnce they have with the same numbers
+#Example, if moves from 1 to  are not showing in the combination line,
+#find the last appearnce of moves 1-k in the previous lines and use them as the moves for this scenario
 
 
 
