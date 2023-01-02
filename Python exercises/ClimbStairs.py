@@ -1,12 +1,14 @@
 #You have n steps to make, and your moves are either 1 step at a time or 2 at a time
 #This function returns the number of different combinations of moves to reach n steps
-#Example, if you need to make 3 steps, then you have 3 options:
+#Example: if you need to make 3 steps, then you have 3 options:
 #Option 1: 1-1-1, Option 2: 2-1, Option 3: 1-2
 #The function prints every combination in a seperate line
 #Because the function is recursive every line presents only the 'new' moves based on running time,
-#Whenever you don't see certain moves (like they are 'missing') in a line you need take those move from the last appearnce they have with the same numbers
-#Example, if moves from 1 to  are not showing in the combination line,
-#find the last appearnce of moves 1-k in the previous lines and use them as the moves for this scenario
+#Whenever you don't see certain moves in a line ('missing'), you need to take these moves from their last appearnce in the previous lines
+#Example: The below lines are the output:
+#Move #1=1 step | Move #2=2 steps |  <<Option 2
+#Move #2=1 step | Move #3=1 step | <<Option 3 
+#In option 3, Move #1 is missing, so we take his last appearance, which is in the previous line, it is "Move #1=1 step", so this means that the combination is 1-1-1
 
 
 
