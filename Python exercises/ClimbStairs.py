@@ -5,7 +5,8 @@
 #The function prints every combination in a seperate line
 #Because the function is recursive every line presents only the 'new' moves based on running time,
 #Whenever you don't see certain moves in a line ('missing'), you need to take these moves from their last appearnce in the previous lines
-#Example: The below lines are the output:
+#Example: The below lines are the output of the function with n=3:
+#Move #1=2 steps | Move #2=1 step | <<Option 1
 #Move #1=1 step | Move #2=2 steps |  <<Option 2
 #Move #2=1 step | Move #3=1 step | <<Option 3 
 #In option 3, Move #1 is missing, so we take his last appearance, which is in the previous line, it is "Move #1=1 step", so this means that the combination is 1-1-1
