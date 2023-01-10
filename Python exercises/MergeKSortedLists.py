@@ -40,7 +40,7 @@ def isSmallThanAll(listOfLists, listInd,itemIndInList, listIndexes,listSizes):
     #itemIndInList - the index of the item in the same list in the line above
     #listIndexes - a list that contains the current indexes on the sorting in everylist, in same order as the lists are ordered in the original lists container
     #listSizes - the logic size of each list
-    # rtype: list of integers, which is the unition of all lists sorted in ascending order
+    # rtype: boolean - to determinte if this integer (only if exists) is smaller/equalr from all other integers with their curr indexes in the different lists
     # """
     isExist=False
     for i,item in enumerate(listOfLists):
