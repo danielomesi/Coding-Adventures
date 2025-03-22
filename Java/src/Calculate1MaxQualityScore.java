@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class calculate1MaxQualityScore {
+public class Calculate1MaxQualityScore {
     public static void main(String[] args) {
         List<Integer> ratings = new ArrayList<Integer>(Arrays.asList(5, -3, -3, 2, 4));
         int impactFactor = 3;

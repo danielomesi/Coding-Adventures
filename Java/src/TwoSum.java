@@ -3,6 +3,13 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class TwoSum {
+    public record MyNumber(int num,int originalIndex) implements Comparable<MyNumber> {
+        @Override
+        public int compareTo(MyNumber o) {
+            return Integer.compare(this.num, o.num);
+        }
+    }
+
     public static void main(String[] args) {
         int[] nums = {3,3};
         int[] res = twoSum2PointerApproach(nums,6);
