@@ -1,0 +1,16 @@
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\bin\Debug\net7.0-windows\MyWinFormsApp.exe
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\bin\Debug\net7.0-windows\MyWinFormsApp.deps.json
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\bin\Debug\net7.0-windows\MyWinFormsApp.runtimeconfig.json
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\bin\Debug\net7.0-windows\MyWinFormsApp.dll
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\bin\Debug\net7.0-windows\MyWinFormsApp.pdb
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\net7.0-windows\MyWinFormsApp.Form1.resources
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\net7.0-windows\MyWinFormsApp.csproj.GenerateResource.cache
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\net7.0-windows\MyWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\net7.0-windows\MyWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\net7.0-windows\MyWinFormsApp.AssemblyInfo.cs
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\net7.0-windows\MyWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\net7.0-windows\MyWinFormsApp.dll
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\net7.0-windows\refint\MyWinFormsApp.dll
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\net7.0-windows\MyWinFormsApp.pdb
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\net7.0-windows\MyWinFormsApp.genruntimeconfig.cache
+C:\Users\omesi\source\repos\MyWinFormsApp\MyWinFormsApp\obj\Debug\net7.0-windows\ref\MyWinFormsApp.dll
