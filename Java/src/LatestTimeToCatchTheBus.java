@@ -5,7 +5,6 @@ public class LatestTimeToCatchTheBus {
         int[] buses = {3};
         int[] passengers = {2};
         int capacity = 2;
-
         System.out.println("Latest time to catch the bus is: " + latestTimeCatchTheBus(buses,passengers,capacity));
     }
 
